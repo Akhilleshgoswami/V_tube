@@ -1,0 +1,8 @@
+{
+  "name": "V_tube",
+  "version": "1.0.0",
+  "description": "A video streaming platforms",
+  "main": "index.js",
+  "author": "Akhilesh goswami",
+  "license": "MIT"
+}
